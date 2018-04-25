@@ -1,0 +1,127 @@
+body {
+    background: #fff;
+    color: #666666;
+    font-family: "Open Sans", sans-serif;
+    overflow-x: hidden;
+}
+
+a {
+    color: #d3ad62;
+    transition: 0.5s;
+}
+
+a:hover, a:active, a:focus {
+    color: #1dc9ce;
+    outline: none;
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    margin: 0 0 20px 0;
+    padding: 0;
+}
+
+/*--------------------------------------------------------------
+# Sections
+--------------------------------------------------------------*/
+/* Sections Header
+--------------------------------*/
+.section-title {
+    font-size: 32px;
+    color: #111;
+    text-align: center;
+    font-weight: 400;
+}
+
+.section-header .section-description {
+    text-align: center;
+    padding-bottom: 40px;
+    color: #777;
+    font-style: italic;
+}
+
+.section-header .section-divider {
+    display: block;
+    width: 60px;
+    height: 3px;
+    background: #1dc8cd;
+    background: linear-gradient(0deg, #1dc8cd 0%, #55fabe 100%);
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+/* Section with background
+--------------------------------*/
+.section-bg {
+    background: #eff5f5;
+}
+
+
+/* Product Featuress Section
+--------------------------------*/
+#features {
+    background: #fff;
+    padding: 60px 0 0 0;
+    overflow: hidden;
+}
+
+#features .features-img {
+    text-align: center;
+    padding-top: 20px;
+}
+
+@media (min-width: 769px) {
+    #features .features-img {
+        padding-top: 120px;
+        margin-top: -200px;
+    }
+}
+
+#features .features-img img {
+    max-width: 100%;
+}
+
+#features .box {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+#features .icon {
+    margin-bottom: 10px;
+}
+
+#features .icon i {
+    color: #666666;
+    font-size: 40px;
+    transition: 0.5s;
+}
+
+#features .icon i:before {
+    background: #1dc8cd;
+    background: linear-gradient(45deg, #1dc8cd 0%, #55fabe 100%);
+    background-clip: border-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#features .title {
+    font-weight: 300;
+    margin-bottom: 15px;
+    font-size: 22px;
+}
+
+#features .title a {
+    color: #111;
+}
+
+#features .description {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+
+#features .section-description {
+    padding-bottom: 10px;
+}

@@ -1,0 +1,49 @@
+.Femmes{
+    margin: 3em;
+}
+
+.Hommes{
+    margin-top: 6em;
+    margin-bottom: 1em;
+}
+
+.Enfants{
+    margin-top: 6em;
+    margin-bottom: 1em;
+}
+
+.Hat{
+    margin-top: 6em;
+    margin-bottom: 1em;
+}
+
+.Access{
+    margin-top: 6em;
+    margin-bottom: 1em;
+}
+
+.Bonnets{
+    margin-top: 6em;
+    margin-bottom: 1em;
+}
+
+.Synthétiques{
+    margin-top: 3em;
+    margin-bottom: 1em;
+}
+
+.Naturels{
+    margin-top: 3em;
+    margin-bottom: 1em;
+}
+
+.gallery-img{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5em;
+}
+
+.gallery-img1{
+    display: flex;
+    justify-content: space-around;
+}

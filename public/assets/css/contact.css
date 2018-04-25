@@ -1,0 +1,51 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+
+input[type=text], select, textarea {
+    width: 80%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    background-color: white;
+}
+
+#contact {
+    padding-top: 10%;
+    padding-bottom: 10%;
+    text-align: center;
+}
+
+p.error{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #d9534f;
+    font-size: 14px;
+}
+
+p.succes {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color : #d3ad62;
+}
+
+div.unique input, div.unique textarea {
+    border-bottom: 1px solid #d0d0d0 !important;
+    max-height: 200px;
+    font-size: 1.3em;
+    resize: vertical;
+    padding: 10px 0;
+    display: block;
+    width: 100%;
+    color: #333;
+}
+
+div.unique{
+    text-transform: uppercase;
+    font-size: 1.2em;
+    text-align: left;
+    color: #7e7e7e;
+    display: block;
+    margin-top: 20px;
+}

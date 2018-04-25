@@ -1,0 +1,14 @@
+{
+    "name": "wildcodeschool/mon-espace-perruques",
+    "description": "Mon Espace Perruques is a simple onepage website showing hair products.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Wild Code School",
+            "email": "contact@wildcodeschool.fr"
+        }
+    ],
+    "require": {
+        "squizlabs/php_codesniffer": "^3.2"
+    }
+}
