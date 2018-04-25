@@ -395,404 +395,86 @@
         </div>
     </div>
 
-    <div class="section" id="section2">
+    <div class="section" id="section1">
         <div class="content">
             <div class="container">
-                <h2>Nos perruques</h2>
-                <h3>Voici un petit aperçu de nos différents styles de perruques</h3>
                 <div class="gallery">
                     <div class="row">
                         <!-- Item -->
-                        <div id="1" class="Femmes">
-                            <h4>Perruques Femmes</h4>
-                            <p>Nous proposons des chevelures d'exception adaptées à votre personnalité. La coiffure existe dans deux montages différents et des coloris adaptés à votre demande .</p>
+                        <div id="wigChild" class="Enfants">
+                            <p>Lorem Ipsum</p>
                         </div>
                         <div class="row">
-                            <div class="Synthétiques">
-                                <h5>Synthétiques</h5>
+                            <div class="Wig">
+                                <h5>Nos Perruques</h5>
                             </div>
                         </div>
                         <div class="row">
                             <div class="gallery-img">
                                 <div class="col-sm-3">
                                     <div class="item">
-                                        <img src="instant1-perruques-femmes_small.jpg" alt="wigInstant">
-                                        <a href="instant1-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
+                                        <img src="/public/assets/image/ProductPage/Bonnet/productspage_hat_Bands_1_small.jpg" alt="wigInstant">
+                                        <a href="/public/assets/image/ProductPage/Bonnet/productspage_hat_Bands_1.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
                                             <span class="icon-search"></span>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="item ">
-                                        <img src="victoria3-perruques-femmes_small.jpg" alt="wigVictoria">
-                                        <a href="victoria3-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
+                                        <img src="/public/assets/image/ProductPage/Bonnet/productspage_hat_Chapeau_small.jpg" alt="wigVictoria">
+                                        <a href="/public/assets/image/ProductPage/Bonnet/productspage_hat_Chapeau.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
                                             <span class="icon-search"></span>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="item">
-                                        <img src="authentique-perruques-femmes_small.jpg" alt="wigAuthentique">
-                                        <a href="/authentique-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
+                                        <img src="/public/assets/image/ProductPage/Bonnet/productspage_hat_Delsy_small.jpg" alt="wigAuthentique">
+                                        <a href="/public/assets/image/ProductPage/Bonnet/productspage_hat_Delsy.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
                                             <span class="icon-search"></span>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="item">
-                                        <img src="instant1-perruques-femmes_small.jpg" alt="wigInstant">
-                                        <a href="instant1-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
+                                        <img src="/public/assets/image/ProductPage/Bonnet/productspage_hat_Garbo_1_small.jpg" alt="wigInstant">
+                                        <a href="/public/assets/image/ProductPage/Bonnet/productspage_hat_Garbo_1.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
                                             <span class="icon-search"></span>
                                         </a>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                    </div>
-                    <br />
-                    <div class="row">
-                        <div class="row">
-                            <div class="Naturels">
-                                <h5>Synthétiques</h5>
                             </div>
                         </div>
                         <div class="row">
                             <div class="gallery-img">
                                 <div class="col-sm-3">
                                     <div class="item">
-                                        <img src="instant1-perruques-femmes_small.jpg" alt="wigInstant">
-                                        <a href="instant1-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
+                                        <img src="/public/assets/image/ProductPage/Bonnet/productspage_hat_Linen_Hat_1_small.jpg" alt="wigInstant">
+                                        <a href="/public/assets/image/ProductPage/Bonnet/productspage_hat_Linen_Hat_1.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
                                             <span class="icon-search"></span>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="item ">
-                                        <img src="victoria3-perruques-femmes_small.jpg" alt="wigVictoria">
-                                        <a href="victoria3-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
+                                        <img src="/public/assets/image/ProductPage/Bonnet/productspage_hat_Lulu_1_small.jpg" alt="wigVictoria">
+                                        <a href="/public/assets/image/ProductPage/Bonnet/productspage_hat_Lulu_1.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
                                             <span class="icon-search"></span>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="item">
-                                        <img src="authentique-perruques-femmes_small.jpg" alt="wigAuthentique">
-                                        <a href="/authentique-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
+                                        <img src="/public/assets/image/ProductPage/Bonnet/productspage_hat_Tala_Set_1_small.jpg" alt="wigAuthentique">
+                                        <a href="/public/assets/image/ProductPage/Bonnet/productspage_hat_Tala_Set_1.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
                                             <span class="icon-search"></span>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="item">
-                                        <img src="instant1-perruques-femmes_small.jpg" alt="wigInstant">
-                                        <a href="instant1-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="section" id="section2">
-        <div class="content">
-            <div class="container">
-                <h2>Nos perruques</h2>
-                <h3>Voici un petit aperçu de nos différents styles de perruques</h3>
-                <div class="gallery">
-                    <div class="row">
-                        <!-- Item -->
-                        <div id="2" class="Femmes">
-                            <h4>Perruques Femmes</h4>
-                            <p>Nous proposons des chevelures d'exception adaptées à votre personnalité. La coiffure existe dans deux montages différents et des coloris adaptés à votre demande .</p>
-                        </div>
-                        <div class="row">
-                            <div class="Synthétiques">
-                                <h5>Synthétiques</h5>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="gallery-img">
-                                <div class="col-sm-3">
-                                    <div class="item">
-                                        <img src="instant1-perruques-femmes_small.jpg" alt="wigInstant">
-                                        <a href="instant1-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="item ">
-                                        <img src="victoria3-perruques-femmes_small.jpg" alt="wigVictoria">
-                                        <a href="victoria3-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="item">
-                                        <img src="authentique-perruques-femmes_small.jpg" alt="wigAuthentique">
-                                        <a href="/authentique-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="item">
-                                        <img src="instant1-perruques-femmes_small.jpg" alt="wigInstant">
-                                        <a href="instant1-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <br />
-                    <div class="row">
-                        <div class="row">
-                            <div class="Naturels">
-                                <h5>Synthétiques</h5>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="gallery-img">
-                                <div class="col-sm-3">
-                                    <div class="item">
-                                        <img src="instant1-perruques-femmes_small.jpg" alt="wigInstant">
-                                        <a href="instant1-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="item ">
-                                        <img src="victoria3-perruques-femmes_small.jpg" alt="wigVictoria">
-                                        <a href="victoria3-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="item">
-                                        <img src="authentique-perruques-femmes_small.jpg" alt="wigAuthentique">
-                                        <a href="/authentique-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="item">
-                                        <img src="instant1-perruques-femmes_small.jpg" alt="wigInstant">
-                                        <a href="instant1-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="section" id="section3">
-        <div class="content">
-            <div class="container">
-                <h2>Nos perruques</h2>
-                <h3>Voici un petit aperçu de nos différents styles de perruques</h3>
-                <div class="gallery">
-                    <div class="row">
-                        <!-- Item -->
-                        <div id="3" class="Femmes">
-                            <h4>Perruques Femmes</h4>
-                            <p>Nous proposons des chevelures d'exception adaptées à votre personnalité. La coiffure existe dans deux montages différents et des coloris adaptés à votre demande .</p>
-                        </div>
-                        <div class="row">
-                            <div class="Synthétiques">
-                                <h5>Synthétiques</h5>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="gallery-img">
-                                <div class="col-sm-3">
-                                    <div class="item">
-                                        <img src="instant1-perruques-femmes_small.jpg" alt="wigInstant">
-                                        <a href="instant1-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="item ">
-                                        <img src="victoria3-perruques-femmes_small.jpg" alt="wigVictoria">
-                                        <a href="victoria3-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="item">
-                                        <img src="authentique-perruques-femmes_small.jpg" alt="wigAuthentique">
-                                        <a href="/authentique-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="item">
-                                        <img src="instant1-perruques-femmes_small.jpg" alt="wigInstant">
-                                        <a href="instant1-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <br />
-                    <div class="row">
-                        <div class="row">
-                            <div class="Naturels">
-                                <h5>Synthétiques</h5>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="gallery-img">
-                                <div class="col-sm-3">
-                                    <div class="item">
-                                        <img src="instant1-perruques-femmes_small.jpg" alt="wigInstant">
-                                        <a href="instant1-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="item ">
-                                        <img src="victoria3-perruques-femmes_small.jpg" alt="wigVictoria">
-                                        <a href="victoria3-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="item">
-                                        <img src="authentique-perruques-femmes_small.jpg" alt="wigAuthentique">
-                                        <a href="/authentique-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="item">
-                                        <img src="instant1-perruques-femmes_small.jpg" alt="wigInstant">
-                                        <a href="instant1-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="section" id="section4">
-        <div class="content">
-            <div class="container">
-                <h2>Nos perruques</h2>
-                <h3>Voici un petit aperçu de nos différents styles de perruques</h3>
-                <div class="gallery">
-                    <div class="row">
-                        <!-- Item -->
-                        <div id="4" class="Femmes">
-                            <h4>Perruques Femmes</h4>
-                            <p>Nous proposons des chevelures d'exception adaptées à votre personnalité. La coiffure existe dans deux montages différents et des coloris adaptés à votre demande .</p>
-                        </div>
-                        <div class="row">
-                            <div class="Synthétiques">
-                                <h5>Synthétiques</h5>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="gallery-img">
-                                <div class="col-sm-3">
-                                    <div class="item">
-                                        <img src="instant1-perruques-femmes_small.jpg" alt="wigInstant">
-                                        <a href="instant1-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="item ">
-                                        <img src="victoria3-perruques-femmes_small.jpg" alt="wigVictoria">
-                                        <a href="victoria3-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="item">
-                                        <img src="authentique-perruques-femmes_small.jpg" alt="wigAuthentique">
-                                        <a href="/authentique-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="item">
-                                        <img src="instant1-perruques-femmes_small.jpg" alt="wigInstant">
-                                        <a href="instant1-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <br />
-                    <div class="row">
-                        <div class="row">
-                            <div class="Naturels">
-                                <h5>Synthétiques</h5>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="gallery-img">
-                                <div class="col-sm-3">
-                                    <div class="item">
-                                        <img src="instant1-perruques-femmes_small.jpg" alt="wigInstant">
-                                        <a href="instant1-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="item ">
-                                        <img src="victoria3-perruques-femmes_small.jpg" alt="wigVictoria">
-                                        <a href="victoria3-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="item">
-                                        <img src="authentique-perruques-femmes_small.jpg" alt="wigAuthentique">
-                                        <a href="/authentique-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
-                                            <span class="icon-search"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="item">
-                                        <img src="instant1-perruques-femmes_small.jpg" alt="wigInstant">
-                                        <a href="instant1-perruques-femmes.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
+                                        <img src="/public/assets/image/ProductPage/Bonnet/productspage_hat_Milla_2_small.jpg" alt="wigInstant">
+                                        <a href="/public/assets/image/ProductPage/Bonnet/productspage_hat_Milla_2.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
                                             <span class="icon-search"></span>
                                         </a>
                                     </div>
