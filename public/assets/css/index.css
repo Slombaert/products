@@ -18,6 +18,8 @@ section.hero .sl-slide .sl-slide-inner h2 {
     color: #fff;
 }
 section.hero .sl-slide .sl-slide-inner h1 {
+.carousel-caption h1 {
+    color: #d3ad62;
     font-size: 6.25em;
 }
 section.hero .sl-slide .sl-slide-inner h2 {
@@ -41,9 +43,7 @@ h2{
     font-family: 'Dancing Script', cursive;
 }
 
-.carousel-caption h1 {
-    color: #d3ad62;
-    font-weight: bolder;
+font-weight: bolder;
 }
 
 .text-primary{

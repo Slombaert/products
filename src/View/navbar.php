@@ -18,9 +18,9 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Nos produits<span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="/src/View/products.php/#firstPage">Perruques Femmes</a></li>
-                        <li><a href="/src/View/products.php/#secondPage">Perruques Hommes</a></li>
-                        <li><a href="/src/View/products.php/##3rdPage">Perruques Enfants</a></li>
-                        <li><a href="/src/View/products.php/#hat">Bonnets & Turbans</a></li>
+                        <li><a href="/src/View/products.php/#3rdPage">Perruques Hommes</a></li>
+                        <li><a href="/src/View/products.php/#4thpage">Perruques Enfants</a></li>
+                        <li><a href="/src/View/products.php/#lastPage">Bonnets & Turbans</a></li>
                         <li><a href="/src/View/products.php/#acces">Accessoires et Cosmetiques</a></li>
                     </ul>
                 </li>
