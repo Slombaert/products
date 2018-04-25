@@ -253,8 +253,8 @@
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="item">
-                                        <img src="/public/assets/image/ProductPage/Homme/productspage_wigman_Roger_small.jpg" alt="wigInstant">
-                                        <a href="/public/assets/image/ProductPage/Homme/productspage_wigman_Roger.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
+                                        <img src="/public/assets/image/ProductPage/Homme/productspage_wigman_patrick_small.jpg" alt="wigInstant">
+                                        <a href="/public/assets/image/ProductPage/Homme/productspage_wigman_patrick.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
                                             <span class="icon-search"></span>
                                         </a>
                                     </div>
@@ -345,8 +345,8 @@
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="item">
-                                        <img src="/public/assets/image/ProductPage/Enfants/productspage_wigchild_Emma_4_small.jpg" alt="wigInstant">
-                                        <a href="/public/assets/image/ProductPage/Enfants/productspage_wigchild_Emma_4.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
+                                        <img src="/public/assets/image/ProductPage/Enfants/productspage_wigchild_Lilly_small.jpg" alt="wigInstant">
+                                        <a href="/public/assets/image/ProductPage/Enfants/productspage_wigchild_Lilly.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
                                             <span class="icon-search"></span>
                                         </a>
                                     </div>
