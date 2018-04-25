@@ -329,24 +329,24 @@
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="item ">
-                                        <img src="/public/assets/image/ProductPage/Enfants/productspage_wigwoman_Eli_3_small.jpg" alt="wigVictoria">
-                                        <a href="/public/assets/image/ProductPage/Enfants/productspage_wigwoman_Eli_3.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
+                                        <img src="/public/assets/image/ProductPage/Enfants/productspage_wigchild_Eli_3_small.jpg" alt="wigVictoria">
+                                        <a href="/public/assets/image/ProductPage/Enfants/productspage_wigchild_Eli_3.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
                                             <span class="icon-search"></span>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="item">
-                                        <img src="/public/assets/image/ProductPage/Enfants/productspage_wigwoman_Emma_small.jpg" alt="wigAuthentique">
-                                        <a href="/public/assets/image/ProductPage/Enfants/productspage_wigwoman_Emma.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
+                                        <img src="/public/assets/image/ProductPage/Enfants/productspage_wigchild_Emma_small.jpg" alt="wigAuthentique">
+                                        <a href="/public/assets/image/ProductPage/Enfants/productspage_wigchild_Emma.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
                                             <span class="icon-search"></span>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="item">
-                                        <img src="/public/assets/image/ProductPage/Enfants/productspage_wigwoman_Emma_4_small.jpg" alt="wigInstant">
-                                        <a href="/public/assets/image/ProductPage/Enfants/productspage_wigwoman_Emma_4.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
+                                        <img src="/public/assets/image/ProductPage/Enfants/productspage_wigchild_Emma_4_small.jpg" alt="wigInstant">
+                                        <a href="/public/assets/image/ProductPage/Enfants/productspage_wigchild_Emma_4.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
                                             <span class="icon-search"></span>
                                         </a>
                                     </div>
@@ -357,32 +357,32 @@
                             <div class="gallery-img">
                                 <div class="col-sm-3">
                                     <div class="item">
-                                        <img src="/public/assets/image/ProductPage/Enfants/productspage_wigwoman_Lena_small.jpg" alt="wigInstant">
-                                        <a href="/public/assets/image/ProductPage/Enfants/productspage_wigwoman_Lena.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
+                                        <img src="/public/assets/image/ProductPage/Enfants/productspage_wigchild_ariana_juniors_small.jpg" alt="wigInstant">
+                                        <a href="/public/assets/image/ProductPage/Enfants/productspage_wigchild_ariana_juniors.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
                                             <span class="icon-search"></span>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="item ">
-                                        <img src="/public/assets/image/ProductPage/Enfants/productspage_wigwoman_Lilly_small.jpg" alt="wigVictoria">
-                                        <a href="/public/assets/image/ProductPage/Enfants/productspage_wigwoman_Lilly.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
+                                        <img src="/public/assets/image/ProductPage/Enfants/productspage_wigchild_elitekid1_juniors8_small.jpg" alt="wigVictoria">
+                                        <a href="/public/assets/image/ProductPage/Enfants/productspage_wigchild_elitekid1_juniors8.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
                                             <span class="icon-search"></span>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="item">
-                                        <img src="/public/assets/image/ProductPage/Enfants/productspage_wigwoman_Nele_small.jpg" alt="wigAuthentique">
-                                        <a href="/public/assets/image/ProductPage/Enfants/productspage_wigwoman_Nele.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
+                                        <img src="/public/assets/image/ProductPage/Enfants/productspage_wigchild_Nele_small.jpg" alt="wigAuthentique">
+                                        <a href="/public/assets/image/ProductPage/Enfants/productspage_wigchild_Nele.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
                                             <span class="icon-search"></span>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="item">
-                                        <img src="/public/assets/image/ProductPage/Enfants/productspage_wigwoman_Sara_small.jpg" alt="wigInstant">
-                                        <a href="/public/assets/image/ProductPage/Enfants/productspage_wigwoman_Sara.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
+                                        <img src="/public/assets/image/ProductPage/Enfants/productspage_wigchild_Sara_small.jpg" alt="wigInstant">
+                                        <a href="/public/assets/image/ProductPage/Enfants/productspage_wigchild_Sara.jpg" data-lightbox="image-1" data-title="Image Caption" class="has-border">
                                             <span class="icon-search"></span>
                                         </a>
                                     </div>
